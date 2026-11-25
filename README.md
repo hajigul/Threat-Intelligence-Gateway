@@ -88,3 +88,17 @@ Then, launch the Gradio app:
 python app.py
 ```
 
+---
+
+## 🖼️ Screenshots
+
+### 1. Main Interface & Explainable AI (XAI) & Payload Inspector
+![Threat Intelligence Gateway Main UI](1st.png)
+*The dark cyber theme interface showing the input terminal, real-time latency tracking, and the confidence meter.*
+
+### 2. 
+![XAI Breakdown and Payload Inspector](2nd.png)
+*Detailed breakdown showing the ML Feature Importance, Heuristic Triggers, and the Payload Inspector highlighting suspicious words in red and yellow.*
+
+---
+
